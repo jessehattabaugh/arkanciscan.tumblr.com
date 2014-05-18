@@ -1,0 +1,23 @@
+{
+  "name": "arkanciscan.tumblr.com",
+  "version": "0.0.0",
+  "description": "arkanciscan.tumblr.com",
+  "main": "server.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jessehattabaugh/arkanciscan.tumblr.com.git"
+  },
+  "author": "",
+  "license": "Artistic License 2.0",
+  "bugs": {
+    "url": "https://github.com/jessehattabaugh/arkanciscan.tumblr.com/issues"
+  },
+  "homepage": "https://github.com/jessehattabaugh/arkanciscan.tumblr.com",
+  "dependencies": {
+    "node-static": "^0.7.3",
+    "gulp": "^3.6.2"
+  }
+}
